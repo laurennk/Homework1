@@ -1,0 +1,7 @@
+tasks:
+  - name: Install numpy
+    init: pip install numpy
+  - name: Install pandas
+    init: pip install pandas
+  - name: Install matplotlib
+    init: pip install matplotlib
